@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Robert_Barr_%28writer%29
 description: Although a work of fiction, this novel by Robert Barr provides historically-accurate
   insight on bladesmithing and metal forging.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14656#The-Sword-Maker
 gutenberg_issued: '2005-01-10'
 gutenberg_type: Text
 identifiers:
