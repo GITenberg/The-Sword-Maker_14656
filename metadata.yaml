@@ -1,0 +1,32 @@
+_repo: The-Sword-Maker_14656
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barr, Robert
+    birthdate: 1850
+    deathdate: 1912
+    gutenberg_agent_id: '1616'
+    url: http://www.gutenberg.org/2009/agents/1616
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Barr_%28writer%29
+description: Although a work of fiction, this novel by Robert Barr provides historically-accurate
+  insight on bladesmithing and metal forging.
+gutenberg_issued: '2005-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14656'
+  lccn: '42008903'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Swordsmen -- Fiction'
+- !lcsh 'Frankfurt am Main (Germany) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: The Sword Maker
+url: http://www.gutenberg.org/ebooks/14656
